@@ -72,3 +72,10 @@ Response:
   "prediction": 0,
   "probability": 0.1742
 }
+```
+---
+
+## 💻 Web App ScreenShot
+
+![Diabetes Prediction App Screenshot](Screenshot1.png)
+![Diabetes Prediction App Screenshot](Screenshot2.png)
