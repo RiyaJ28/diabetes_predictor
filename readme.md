@@ -6,7 +6,7 @@ This is a machine learning web application that predicts the likelihood of diabe
 
 ## 🚀 Live Demo
 
-👉 [View Live App](https://your-deployed-url.onrender.com)
+👉 [View Live App](https://diabetes-predictor-jaa6.onrender.com/)
 
 ---
 
